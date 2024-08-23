@@ -23,7 +23,7 @@ Define password length and create characters:  <br/>
 <img width="1160" alt="step 2" src="https://github.com/user-attachments/assets/539ead5d-689f-40c9-b584-c669a4362611">
 <br />
 <br />
-Write passwaord script with length and create characters: <br/>
+Write password script with length and create characters: <br/>
 <img width="1157" alt="step 3" src="https://github.com/user-attachments/assets/c3942292-8645-40af-8786-9f2570a7f516">
 <br />
 <br />
