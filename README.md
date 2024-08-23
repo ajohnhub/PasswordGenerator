@@ -10,7 +10,7 @@ This Password Generator is a Python-based tool designed to create strong, random
 
 <h2>Environments Used </h2>
 
-- <b>Pycharm</b> 
+- <b>PyCharm CE</b> 
 
 <h2>Program walk-through:</h2>
 
