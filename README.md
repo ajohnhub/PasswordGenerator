@@ -15,32 +15,30 @@ This Password Generator is a Python-based tool designed to create strong, random
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Import Random and String Module: <br/>
+<img width="1151" alt="step 1" src="https://github.com/user-attachments/assets/7b20de26-c528-4ab3-afca-b68365ba7309">
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Define password length and create characters:  <br/>
+<img width="1160" alt="step 2" src="https://github.com/user-attachments/assets/539ead5d-689f-40c9-b584-c669a4362611">
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Write passwaord script with length and create characters: <br/>
+<img width="1157" alt="step 3" src="https://github.com/user-attachments/assets/c3942292-8645-40af-8786-9f2570a7f516">
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Create password user input:  <br/>
+<img width="1158" alt="step 4" src="https://github.com/user-attachments/assets/c8935969-2996-4b9f-a4dc-1fea548897f3">
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Run Program:  <br/>
+<img width="314" alt="step 5" src="https://github.com/user-attachments/assets/65fac597-d2b0-472f-863e-d3de9185169c">
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Enter desired password length and hit enter/return on keyboard:  <br/>
+<img width="1158" alt="step 6" src="https://github.com/user-attachments/assets/375b1030-e689-4196-b0bc-028b7cff27f5">
 <br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+                                                                                                                      
 </p>
 
 <!--
